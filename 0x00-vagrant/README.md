@@ -1,1 +1,1 @@
-This project is about installing git on your desktop
+This project is about installing git.
